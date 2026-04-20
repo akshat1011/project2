@@ -1,2 +1,3 @@
 # New Porject
-testing new things with init command
+
+This Project is created from the local system.
